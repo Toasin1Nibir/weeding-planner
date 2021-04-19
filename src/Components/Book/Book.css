@@ -1,0 +1,15 @@
+.sidenav{
+    background-color: #B9770E ;
+    height: 500px;
+  }
+  .sidenav Link {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: black;
+  }
